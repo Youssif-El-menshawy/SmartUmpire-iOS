@@ -1,0 +1,9 @@
+# Firebase
+GoogleService-Info.plist
+SmartUmpire/Config/GoogleService-Info.plist
+
+# Xcode
+DerivedData/
+.build/
+*.xcuserdata
+.DS_Store
